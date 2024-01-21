@@ -7,3 +7,4 @@ Coding Challenge Curl- https://codingchallenges.fyi/challenges/challenge-curl
 Coding Challenge Pong- https://codingchallenges.fyi/challenges/challenge-pong
 Coding Challenge LinkedIn Carousel Generator- https://codingchallenges.fyi/challenges/challenge-licq
 Coding Challenge Network Modeling Tool- https://codingchallenges.fyi/challenges/challenge-network-modeller
+Coding Challenge DNS Resolver- https://codingchallenges.fyi/challenges/challenge-dns-resolver
